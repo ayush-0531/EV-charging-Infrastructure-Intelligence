@@ -1,4 +1,5 @@
 🔋 EV Charging Infrastructure Analytics
+
 **📌 Overview**
 
 This project analyzes an EV charging infrastructure dataset to understand the distribution, capacity, operators, connector types, and usage patterns of charging stations.
@@ -31,7 +32,9 @@ SQL / MySQL	Business analysis and analytical queries
 Power BI	Interactive dashboard and business insights
 Excel / CSV	Initial data inspection and dataset handling
 Git & GitHub	Version control and project documentation
-🔄 Project Workflow
+
+**🔄 Project Workflow**
+
 Raw Dataset
      ↓
 Data Understanding
